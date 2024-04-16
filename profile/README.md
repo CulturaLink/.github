@@ -1,5 +1,5 @@
 <p align="center">
-<img src="README-assets/CulturaLinkLogo.png" height="190">
+<img src="../README-assets/CulturaLinkLogo.png" height="190">
 </p>
 <h1 align="center">
 </h1>
@@ -31,56 +31,56 @@ Software system to help councils promote culture in their municipality.
   <tr>
     <td align="center">
       <a href="https://github.com/artHub-j">
-        <img src="README-assets/arturo.jpeg" width="72px;" alt="artHub-j"/><br>
+        <img src="../README-assets/arturo.jpeg" width="72px;" alt="artHub-j"/><br>
         <sub><b>@artHub-j</b></sub>
       </a><br/>
       <sub>Arturo Aragón</sub>
     </td> <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
     <td align="center">
       <a href="https://github.com/3R1C2001">
-        <img src="README-assets/eric.jpg" width="72px;" alt="3R1C2001"/><br>
+        <img src="../README-assets/eric.jpg" width="72px;" alt="3R1C2001"/><br>
         <sub><b>@3R1C2001</b></sub>
       </a><br/>
       <sub>Eric Álvarez</sub>
     </td> <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
     <td align="center">
       <a href="https://github.com/FerranEJ/">
-        <img src="README-assets/ferran.jpeg" width="72px;" alt="FerranEJ"/><br>
+        <img src="../README-assets/ferran.jpeg" width="72px;" alt="FerranEJ"/><br>
         <sub><b>@FerranEJ</b></sub>
       </a><br/>
       <sub>Ferran Escala</sub>
     </td> <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
     <td align="center">
       <a href="https://github.com/Ha1r1to">
-        <img src="README-assets/alejandro.jpeg" width="72px;" alt="Ha1r1to"/><br>
+        <img src="../README-assets/alejandro.jpeg" width="72px;" alt="Ha1r1to"/><br>
         <sub><b>@Ha1r1to</b></sub>
       </a><br/>
       <sub>Alejandro Nevado</sub>
     </td> <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
     <td align="center">
       <a href="https://github.com/nghaffar21">
-        <img src="README-assets/nima.jpeg" width="72px;" alt="nghaffar21"/><br>
+        <img src="../README-assets/nima.jpeg" width="72px;" alt="nghaffar21"/><br>
         <sub><b>@nghaffar21</b></sub>
       </a><br/>
       <sub>Nima Ghaffarzadeh</sub>
     </td> <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
     <td align="center">
       <a href="https://github.com/ProGer211">
-        <img src="README-assets/gerard.png" width="72px;" alt="ProGer211"/><br>
+        <img src="../README-assets/gerard.png" width="72px;" alt="ProGer211"/><br>
         <sub><b>@ProGer211</b></sub>
       </a><br/>
       <sub>Gerard Chaparro</sub>
     </td> <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
     <td align="center"> 
       <a href="https://github.com/jesikajz">
-        <img src="README-assets/jesika.png" width="72px;" alt="jesikajz"/><br>
+        <img src="../README-assets/jesika.png" width="72px;" alt="jesikajz"/><br>
         <sub><b>@jesikajz</b></sub>
       </a><br/>
       <sub>Jesika Jiménez</sub>
     </td> <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
     <td align="center">
       <a href="https://github.com/xvimo">
-        <img src="README-assets/xavi.jpeg" width="72px;" alt="xvimo"/><br>
+        <img src="../README-assets/xavi.jpeg" width="72px;" alt="xvimo"/><br>
         <sub><b>@xvimo</b></sub>
       </a><br/>
       <sub>Xavier Vila</sub>
@@ -94,14 +94,14 @@ Software system to help councils promote culture in their municipality.
 <tr>
     <td align="center">
       <a href="https://github.com/XavierFranch">
-        <img src="README-assets/xavier.jpeg" width="72px;" alt="XavierFranch"/><br>
+        <img src="../README-assets/xavier.jpeg" width="72px;" alt="XavierFranch"/><br>
         <sub><b>@XavierFranch</b></sub>
       </a><br/>
       <sub>Xavier Franch</sub>
     </td> <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
      <td align="center">
       <a href="https://github.com/lidix91">
-        <img src="README-assets/lidia.jpeg" width="72px;" alt="lidix91"/><br>
+        <img src="../README-assets/lidia.jpeg" width="72px;" alt="lidix91"/><br>
         <sub><b>@lidix91</b></sub>
       </a><br/>
       <sub>Lidia López</sub>

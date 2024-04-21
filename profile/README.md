@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://github.com/CulturaLink/.github/assets/92806890/45cfdeb8-99cf-4853-99e9-b34192ca2f17" height="190">
+<img src="https://github.com/CulturaLink/.github/assets/92806890/54ace2bf-e2a2-4656-bf63-38e83f3173d3" height="190">
 </p>
+
 <h1 align="center">
 </h1>
 <p align="center"><i><b>Connecting Cultures, Creating Community: Your Gateway to the Local Cultural World.</b></i></p>
